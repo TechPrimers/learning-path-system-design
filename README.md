@@ -34,6 +34,7 @@ _💡Each link points to a separate Youtube video, the code samples and relevant
   - [Rapids Rivers Ponds | Event Driven System Design](https://youtu.be/St89bxUXneI)
   - [IoT Platform System Design](https://youtu.be/bdCdKdfDf7o)
   - [Zerodha Cloud Native System Design](https://www.youtube.com/watch?v=1TWRaH3aVHY)
+  - [Transaction Outbox Pattern | Resilient Transactional Design](https://www.youtube.com/watch?v=M-Fhb8LzhPo)
  
 
 ---------------------------------------------------------------
